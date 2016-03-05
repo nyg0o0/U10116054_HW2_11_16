@@ -1,7 +1,23 @@
+/* 
+---- 11.16 java Assignment ----
+  Strudent ID: U10116054
+  Strudent Name: Yu-Hsin Chen
+  Assign Date: 3/7
+
+  Content:This is a program for bank account, it can show some informations of your account.
+  
+-->  RepeatAdditionQuiz.java  ----- main program
+  
+*/
+
+// import java api
 import java.util.Scanner;
 import java.util.ArrayList;
 
+
+// RepeatAdditionQuiz class
 public class RepeatAdditionQuiz {
+  //main method
   public static void main(String[] args){
     ArrayList<Integer> answerList = new ArrayList<>();
     int number1 = (int)(Math.random() * 10);
