@@ -2,7 +2,7 @@
 ---- 11.16 java Assignment ----
   Strudent ID: U10116054
   Strudent Name: Yu-Hsin Chen
-  Assign Date: 3/7
+  Assign Date: 3/5
   Content:This is a program for repeat addition quiz with arraylist.
 */
 
